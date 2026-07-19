@@ -1,0 +1,45 @@
+# Secrets
+.env
+*.env
+!.env.example
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Personal Shona data
+data/*.json
+!data/.gitkeep
+logs/
+*.log
+
+# Temporary and generated content
+temp/
+assets/screenshots/*
+!assets/screenshots/.gitkeep
+Shona Outputs/
+test_*.png
+test_*.py
+
+# Packaging output
+build/
+dist/
+*.spec
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3

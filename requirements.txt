@@ -1,0 +1,14 @@
+customtkinter
+google-genai
+python-dotenv
+SpeechRecognition
+pyttsx3
+PyAudio
+pyautogui
+pyperclip
+pillow
+mss
+psutil
+pypdf
+playwright
+keyboard
